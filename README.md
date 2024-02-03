@@ -1,2 +1,2 @@
 # NZ-card-data
-NZ credit card transaction data
+The data for this project comes from https://www.kaggle.com/datasets/najeebz/electronic-card-transactions-dec-2023-new-zealand/data. It's showing credit card transactions in New Zealand between 2000 and 2023. Right now the code displays a pie chart showing the number of transactions each month in 2023. Next, I'll add a line chart showing the number of transactions across each month from 2000 to 2023.
